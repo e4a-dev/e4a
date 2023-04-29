@@ -3,7 +3,7 @@
     <extension point="xbmc.addon.repository" name="e4a">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/e4a-dev/repo/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/YOUR_USERNAME_HERE/e4a-dev/repo/main/repo/zips/addons.xml.md5</checksum>
+            <checksum>https://raw.githubusercontent.com/e4a-dev/repo/main/repo/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/e4a-dev/repo/main/repo/zips/</datadir>
         </dir>
     </extension>
