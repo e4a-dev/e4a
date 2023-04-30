@@ -30,9 +30,6 @@
 [submodule "repo/plugin.video.seren"]
 	path = repo/plugin.video.seren
 	url = https://github.com/nixgates/plugin.video.seren.git
-[submodule "repo/plugin.program.openwizard"]
-	path = repo/plugin.program.openwizard
-	url = https://github.com/a4k-openproject/plugin.program.openwizard.git
 [submodule "repo/plugin.program.opendevtools"]
 	path = repo/plugin.program.opendevtools
 	url = https://github.com/drinfernoo/plugin.program.opendevtools.git
