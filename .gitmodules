@@ -1,0 +1,18 @@
+[submodule "leia/repository.matrix.beatmasterRS"]
+	path = leia/repository.matrix.beatmasterRS
+	url = https://github.com/beatmasterRS/repository.matrix.beatmasterRS/
+[submodule "matrix/repository.matrix.beatmasterRS"]
+	path = matrix/repository.matrix.beatmasterRS
+	url = https://github.com/beatmasterRS/repository.matrix.beatmasterRS/
+[submodule "leia/repository.beatmasterRS"]
+	path = leia/repository.beatmasterRS
+	url = https://github.com/beatmasterRS/repository.beatmasterRS/
+[submodule "matrix/plugin.video.themoviedb.helper"]
+	path = matrix/plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper
+[submodule "matrix/plugin.video.seren"]
+	path = matrix/plugin.video.seren
+	url = https://github.com/nixgates/plugin.video.seren
+[submodule "matrix/plugin.program.openwizard"]
+	path = matrix/plugin.program.openwizard
+	url = https://github.com/a4k-openproject/plugin.program.openwizard
