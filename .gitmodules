@@ -25,3 +25,6 @@
 [submodule "matrix/repository.Rising.Tides"]
 	path = matrix/repository.Rising.Tides
 	url = https://mullafabz.xyz/Repository/
+[submodule "matrix/repo"]
+	path = matrix/repo
+	url = https://github.com/jewbmx/repo
