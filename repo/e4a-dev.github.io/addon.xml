@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="e4a" name="repo" version="0.1" provider-name="e4a-dev">
+<addon id="e4a" name="e4a-dev.github.io" version="0.1" provider-name="e4a-dev">
     <extension point="xbmc.addon.repository" name="e4a">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/e4a-dev/e4a-dev.github.io/main/repo/zips/addons.xml</info>
