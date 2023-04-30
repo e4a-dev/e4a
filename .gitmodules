@@ -1,6 +1,3 @@
-[submodule "leia/repository.matrix.beatmasterRS"]
-	path = leia/repository.matrix.beatmasterRS
-	url = https://github.com/beatmasterRS/repository.matrix.beatmasterRS/
 [submodule "matrix/repository.matrix.beatmasterRS"]
 	path = matrix/repository.matrix.beatmasterRS
 	url = https://github.com/beatmasterRS/repository.matrix.beatmasterRS/
@@ -16,3 +13,15 @@
 [submodule "matrix/plugin.program.openwizard"]
 	path = matrix/plugin.program.openwizard
 	url = https://github.com/a4k-openproject/plugin.program.openwizard
+[submodule "matrix/repository.tikipeter"]
+	path = matrix/repository.tikipeter
+	url = https://github.com/Tikipeter/repository.tikipeter
+[submodule "matrix/umbrellaplug.github.io"]
+	path = matrix/umbrellaplug.github.io
+	url = https://github.com/umbrellaplug/umbrellaplug.github.io
+[submodule "matrix/a4k-openproject.github.io"]
+	path = matrix/a4k-openproject.github.io
+	url = https://github.com/a4k-openproject/a4k-openproject.github.io
+[submodule "matrix/repository.Rising.Tides"]
+	path = matrix/repository.Rising.Tides
+	url = https://mullafabz.xyz/Repository/
