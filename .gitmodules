@@ -1,30 +1,38 @@
 [submodule "matrix/repository.matrix.beatmasterRS"]
 	path = matrix/repository.matrix.beatmasterRS
-	url = https://github.com/beatmasterRS/repository.matrix.beatmasterRS/
-[submodule "leia/repository.beatmasterRS"]
-	path = leia/repository.beatmasterRS
-	url = https://github.com/beatmasterRS/repository.beatmasterRS/
+	url = https://github.com/beatmasterRS/skin.arctic.zephyr.mod.git
+[submodule "repo/repository.matrix.beatmasterRS"]
+	path = repo/repository.matrix.beatmasterRS
+	url = https://github.com/beatmasterRS/skin.arctic.zephyr.mod.git
+[submodule "matrix/screensaver.arctic.mirage"]
+	path = matrix/screensaver.arctic.mirage
+	url = https://github.com/drinfernoo/screensaver.arctic.mirage    
+[submodule "matrix/script.skinvariables"]
+	path = matrix/script.skinvariables
+	url = https://github.com/jurialmunkey/script.skinvariables.git
+[submodule "repo/plugin.video.themoviedb.helper"]
+	path = repo/plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
 [submodule "matrix/plugin.video.themoviedb.helper"]
 	path = matrix/plugin.video.themoviedb.helper
-	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper
-[submodule "matrix/plugin.video.seren"]
-	path = matrix/plugin.video.seren
-	url = https://github.com/nixgates/plugin.video.seren
-[submodule "matrix/plugin.program.openwizard"]
-	path = matrix/plugin.program.openwizard
-	url = https://github.com/a4k-openproject/plugin.program.openwizard
-[submodule "matrix/repository.tikipeter"]
-	path = matrix/repository.tikipeter
-	url = https://github.com/Tikipeter/repository.tikipeter
-[submodule "matrix/umbrellaplug.github.io"]
-	path = matrix/umbrellaplug.github.io
-	url = https://github.com/umbrellaplug/umbrellaplug.github.io
-[submodule "matrix/a4k-openproject.github.io"]
-	path = matrix/a4k-openproject.github.io
-	url = https://github.com/a4k-openproject/a4k-openproject.github.io
-[submodule "matrix/repository.Rising.Tides"]
-	path = matrix/repository.Rising.Tides
-	url = https://mullafabz.xyz/Repository/
-[submodule "matrix/repo"]
-	path = matrix/repo
-	url = https://github.com/jewbmx/repo
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
+	branch = matrix
+[submodule "nexus/plugin.video.themoviedb.helper"]
+	path = nexus/plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
+	branch = nexus
+[submodule "repo/script.module.tmdbhelper"]
+	path = repo/script.module.tmdbhelper
+	url = https://github.com/jurialmunkey/script.module.tmdbhelper.git
+[submodule "repo/context.themoviedb.helper"]
+	path = repo/context.themoviedb.helper
+	url = https://github.com/jurialmunkey/context.themoviedb.helper.git
+[submodule "repo/plugin.video.seren"]
+	path = repo/plugin.video.seren
+	url = https://github.com/nixgates/plugin.video.seren.git
+[submodule "repo/plugin.program.openwizard"]
+	path = repo/plugin.program.openwizard
+	url = https://github.com/a4k-openproject/plugin.program.openwizard.git
+[submodule "repo/plugin.program.opendevtools"]
+	path = repo/plugin.program.opendevtools
+	url = https://github.com/drinfernoo/plugin.program.opendevtools.git
