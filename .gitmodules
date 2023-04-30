@@ -1,8 +1,8 @@
-[submodule "matrix/repository.matrix.beatmasterRS"]
-	path = matrix/repository.matrix.beatmasterRS
+[submodule "matrix/skin.arctic.zephyr.mod"]
+	path = matrix/skin.arctic.zephyr.mod
 	url = https://github.com/beatmasterRS/skin.arctic.zephyr.mod.git
-[submodule "repo/repository.matrix.beatmasterRS"]
-	path = repo/repository.matrix.beatmasterRS
+[submodule "repo/skin.arctic.zephyr.mod"]
+	path = repo/skin.arctic.zephyr.mod
 	url = https://github.com/beatmasterRS/skin.arctic.zephyr.mod.git
 [submodule "matrix/screensaver.arctic.mirage"]
 	path = matrix/screensaver.arctic.mirage
